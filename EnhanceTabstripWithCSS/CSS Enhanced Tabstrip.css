@@ -1,0 +1,71 @@
+/* TabStrip */
+.sapUiTabPanel {
+	top: 32px !important;
+	padding-bottom: 1px !important;
+	background-color: rgba(221,239,241,0);
+/*	background-color: #ddeff1 !important; */
+	padding: 0px;
+	border: 0px none #c0c0c0 !important;
+}
+.sapUiTabBar {
+	margin: 2px 0px 1px 0px !important;
+	height: 32px !important;
+	padding-bottom: 1px !important;	
+}
+.sapUiTabDsbl 
+{
+	margin: 2px 0px 1px 0px !important;
+	padding-top: 8px !important;
+	height: 32px !important;
+	padding-bottom: 1px !important;
+}
+.sapUiTabSel
+{
+	margin: 2px 0px 1px 0px !important;
+	padding-top: 8px !important;
+	padding-bottom: 1px !important;
+	height: 32px !important;
+}
+.sapUiTab
+{
+	margin: 2px 0px 1px 0px !important;
+	padding-top: 8px !important;
+	padding-bottom: 1px !important;
+	height: 32px !important;
+}
+.sapUiTabSel:hover
+{
+margin: 2px 0px 1px 0px !important;	
+padding-top: 8px !important;	
+padding-bottom: 1px !important;
+}
+.sapUiTab:hover
+{
+	margin: 2px 0px 1px 0px !important;
+	padding-top: 8px !important;
+	padding-bottom: 1px !important;	
+}
+.sapUiTabBarCnt {
+	margin: 2px 0px 1px 0px !important;	
+	border-bottom: 0px none #c0c0c0 !important;
+	height: 32px !important;
+	padding-bottom: 1px !important;
+}
+
+
+/* CrossTab Totals */
+.sapzencrosstab-DimensionHeaderArea {
+ 	color: #333333 !important;
+}
+.sapzencrosstab-ColumnHeaderArea {
+	color: #333333 !important;
+}
+.sapUiTabSel {
+	color: #333333 !important;
+}
+.sapzencrosstab-DataCellTotal {
+	color: #333333 !important;
+}
+.sapzencrosstab-HeaderCellTotal {
+	color: #333333 !important;
+}
